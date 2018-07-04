@@ -1,0 +1,77 @@
+#about {
+    margin-top: 10px;
+}
+
+.below {
+    color: darkmagenta;
+}
+
+.below:hover {
+    color: darkred;
+}
+
+.def {
+    color: darkblue;
+    border: 20px groove gold;
+    background-color: gold;
+}
+
+.progress {
+    height: 25px;
+}
+
+.d {
+    text-align: center;
+}
+
+#g {
+    color: darkred;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.img {
+    transition: height 0.4s, width 0.4s;
+    height: 50px;
+    width: 50px;
+}
+
+.img:hover {
+    transition: height 0.4s, width 0.4s;
+    height: 70px;
+    width: 70px;
+}
+
+.table-responsive {
+    display: table-cell;
+    width: 0%;
+}
+
+.t {
+    margin-bottom: 0px;
+}
+
+#divform {
+    background-color: lawngreen;
+    padding: 10px;
+}
+
+#head {
+    margin-bottom: 15px;
+    color: darkred;
+}
+
+.navbar-nav {
+    font-family: "Arial Black";
+}
+div.container-fluid{
+    font-size: 15.5pt;
+}
+.pbar{
+    width: 40%;
+}
+.img-a{
+    height: 34px;
+    width: 35px;
+}
