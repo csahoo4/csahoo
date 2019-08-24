@@ -1,77 +1,42 @@
-#about {
-    margin-top: 10px;
+#about-me{
+    background-image: url("about_me_background_image.jpg");
+    background-color: darkblue;
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
 }
 
-.below {
-    color: darkmagenta;
+#text-about-me{
+    font-size:15pt;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
 }
 
-.below:hover {
-    color: darkred;
+#my-photo{
+    text-align: center
 }
 
-.def {
-    color: darkblue;
-    border: 20px groove gold;
-    background-color: gold;
+#js-progress-bar{
+    width: 60%
 }
 
-.progress {
-    height: 25px;
+#html-progress-bar{
+    width: 70%
 }
 
-.d {
-    text-align: center;
+#cpp-progress-bar{
+    width: 70%
 }
 
-#g {
-    color: darkred;
-    background-color: cornflowerblue;
-    text-align: center;
-    margin-top: 15px;
+#c-progress-bar{
+    width: 60%
+}
+ 
+#contact{
+    font-family: "Franklin Gothic"
 }
 
-.img {
-    transition: height 0.4s, width 0.4s;
-    height: 50px;
-    width: 50px;
-}
-
-.img:hover {
-    transition: height 0.4s, width 0.4s;
-    height: 70px;
-    width: 70px;
-}
-
-.table-responsive {
-    display: table-cell;
-    width: 0%;
-}
-
-.t {
-    margin-bottom: 0px;
-}
-
-#divform {
-    background-color: lawngreen;
-    padding: 10px;
-}
-
-#head {
-    margin-bottom: 15px;
-    color: darkred;
-}
-
-.navbar-nav {
-    font-family: "Arial Black";
-}
-div.container-fluid{
-    font-size: 15.5pt;
-}
-.pbar{
-    width: 40%;
-}
-.img-a{
-    height: 34px;
-    width: 35px;
+.white-link{
+    color: white
 }
